@@ -9,3 +9,7 @@ git diff
 
 git checkout,git reset
 abc 
+tạo lần đầu 
+git remote add <link>
+git push -u origin master 
+git push 
